@@ -402,16 +402,17 @@ button {
 }
 
 .main {
-    width: 50%;
+    width: 100%;
     margin: 40px 0px 0px 40px;
     box-shadow: 0px 0px 14px 2px #f3f3f3;
     position: relative;
 }
 .main2 {
     width: 100%;
+	font-size: 200px;
     margin: 40px 0px 0px 40px;
     box-shadow: 0px 0px 14px 2px #f3f3f3;
-    position: relative;
+    position: center;
 }
 
 .main::after {
